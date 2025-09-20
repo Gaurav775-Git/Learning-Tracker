@@ -14,14 +14,6 @@ A simple **React-based web app** to track your learning topics and progress. Add
 - Data persistence using **Local Storage**.
 - Responsive design for desktop and mobile.
 
----
-
-## **Demo**
-
-![App Screenshot](screenshot.png)  
-*(Add your screenshot here)*
-
----
 
 ## **Technologies Used**
 
