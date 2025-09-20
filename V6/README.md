@@ -44,4 +44,4 @@ A simple **React-based web app** to track your learning topics and progress. Add
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/learning-tracker.git
+git clone https://github.com/Gaurav775-Git/learning-tracker.git
